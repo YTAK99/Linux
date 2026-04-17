@@ -1,0 +1,9 @@
+a=3
+
+$echo "a is $((++a)), but it will be incremented"
+
+$echo "a is $((a)), but it will be incremented"
+
+$echo "a is $((a++)), but it will be incremented"
+
+a++ = a + a+1
